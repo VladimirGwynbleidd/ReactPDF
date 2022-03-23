@@ -1,0 +1,55 @@
+/* .head-text {
+  position: relative;
+  color: white;
+}
+.center__text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#row {
+  position: relative;
+  float: left;
+}
+#label {
+  position: absolute;
+  bottom: 0;
+  width: 100px;
+}
+.image {
+  float: left;
+}
+#images {
+  margin-left: 110px;
+} */
+
+/* .center {
+  text-align: center;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+/* .parent {
+  display: flex;
+  justify-content: center;
+} */
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centered {
+  height: 100vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-borderless-img {
+  border: 0;
+}
